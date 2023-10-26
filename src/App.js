@@ -1,10 +1,10 @@
 import React from 'react'
-import Data from './Profile Card/Data'
+import Index from './GoogleMeet/Index'
 
 const App = () => {
   return (
     <div>
-      <Data />
+      <Index />
     </div>
   )
 }
