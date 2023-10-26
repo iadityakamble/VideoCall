@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/VideoCall/static/css/main.31d6cfe0.css",
+    "main.js": "/VideoCall/static/js/main.0615bc51.js",
+    "static/js/787.bc7d429a.chunk.js": "/VideoCall/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/VideoCall/index.html",
+    "main.0615bc51.js.map": "/VideoCall/static/js/main.0615bc51.js.map",
+    "787.bc7d429a.chunk.js.map": "/VideoCall/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.0615bc51.js"
+  ]
+}
